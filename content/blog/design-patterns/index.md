@@ -27,7 +27,8 @@ An other advantage of using design patterns is to share common ground with more 
 
 # Example of design patterns
 ## Strategy pattern
-The key takeway is :
+The key takeway is :  
+You could also checkout [this link](../strategy-pattern/)
 
 ## Observer pattern
 The key takeway is :
