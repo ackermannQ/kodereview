@@ -5,7 +5,7 @@ module.exports = {
       name: `Quentin Ackermann`,
       summary: `I explain code and coding practices.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `codeReview ~ | I explain code and coding practices.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       linkedIn: `quentin-ackermann-537178176/`,
