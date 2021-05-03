@@ -1,10 +1,12 @@
 ---
 title: The Strategy Pattern
-date: "2021-05-30T22:40:32.169Z"
+date: "2021-05-04T22:40:32.169Z"
 description: The Strategy pattern explained
 ---
 
-This pattern is widely used in order to separate what may change in an application from what should stay the same.
+As explained in the [Design Patterns](../design-patterns/) article, the purpose is for your system to be ready for changes. If the logic is to coupled, this would cause hard work to implement something that would satisfy your customer request.  
+This pattern is widely used in order to separate what may change in an application from what should stay the same.  
+And it's also one of the simplest pattern to learn so let's get a grasp on what is design pattern.
 
 # Theory - Use case
 
