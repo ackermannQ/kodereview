@@ -26,16 +26,24 @@ You are a valuable asset to your team and your company when you don't create hun
 An other advantage of using design patterns is to share common ground with more experienced developers. For instance, instead of describing step-by-step an algorithm you would use to solve a problem, just explain that you would use an observer pattern. It would make you look professional and avoid waist of time and as you should know, time is essence when it comes to software engineering.
 
 # Example of design patterns
+It exists lots of different patterns, classified in categories:  
+>Behavioral, Creational and Structural patterns  
+
+that tackle a specific kind of problem.
 ## Strategy pattern
-The key takeway is :  
+The key takeway is: Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
 You could also checkout [this link](../strategy-pattern/)
 
 ## Observer pattern
-The key takeway is :
+The key takeway is: Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are __notified__ and __updated__ automatically.
+
+You could also checkout [this link](../observer-pattern/)
 
 ## Decorator pattern
-The key takeway is :
+The key takeway is:  
+You could also checkout [this link](../decorator-pattern/)
 
+_This list would evolve with the different articles written_
 
 # Lecture to get started
 - If you don't want to invest right now in a paper book or kindle, you can get a grasp on many design patterns [there](https://sourcemaking.com)
@@ -43,3 +51,8 @@ The key takeway is :
 
 
 # To conclude - The key takeaways
+
+- Design patterns address specific problems with well thought, high-level solutions
+- It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining
+- They are classified in categories: Behavioral, Creational and Structural patterns
+- 
