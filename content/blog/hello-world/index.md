@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Design patterns
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
