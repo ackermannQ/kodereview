@@ -31,16 +31,16 @@ It exists lots of different patterns, classified in categories:
 
 that tackle a specific kind of problem.
 ## Strategy pattern
-The key takeway is: Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
+Key Takeaway: Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
 You could also checkout [this link](../strategy-pattern/)
 
 ## Observer pattern
-The key takeway is: Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are __notified__ and __updated__ automatically.
+Key Takeaway: Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are __notified__ and __updated__ automatically.
 
 You could also checkout [this link](../observer-pattern/)
 
 ## Decorator pattern
-The key takeway is:  
+Key Takeaway:  
 You could also checkout [this link](../decorator-pattern/)
 
 _This list would evolve with the different articles written_
@@ -55,4 +55,4 @@ _This list would evolve with the different articles written_
 - Design patterns address specific problems with well thought, high-level solutions
 - It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining
 - They are classified in categories: Behavioral, Creational and Structural patterns
-- 
+- When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../decobserverorator-pattern/) or [Decorator](../decorator-pattern/) patterns
