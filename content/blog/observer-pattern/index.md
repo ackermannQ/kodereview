@@ -1,10 +1,11 @@
 ---
-title: The Observer Pattern
-date: "2021-05-30T22:40:32.169Z"
+title: "[Design] - The Observer Pattern"
+date: "2021-05-05T22:40:32.169Z"
 description: I can see you :)
 ---
 
-The observer pattern is ... And solve THIS particular issue
+How does it work ?  
+An __observer__ registers with a __subject__ (or __observable__) which would notify the observer when its state updates. It allows a variety of objects to update o
 
 ## Theory - Use case
 More detail on what I just said above

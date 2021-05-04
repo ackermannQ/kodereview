@@ -1,5 +1,5 @@
 ---
-title: Design Patterns
+title: "[Design] - Design Patterns"
 date: "2021-05-03T22:12:03.284Z"
 description: "Dark magic ?"
 ---
