@@ -1,7 +1,7 @@
 ---
 title: Design Patterns
 date: "2021-05-03T22:12:03.284Z"
-description: "Design Patterns"
+description: "Dark magic ?"
 ---
 
 For many developers, design patterns are something they vaguely heard about. Like some dark technology only senior devs have to worry about.  

@@ -1,7 +1,7 @@
 ---
 title: The Observer Pattern
 date: "2021-05-30T22:40:32.169Z"
-description: The Observer pattern explained 
+description: I can see you :)
 ---
 
 The observer pattern is ... And solve THIS particular issue

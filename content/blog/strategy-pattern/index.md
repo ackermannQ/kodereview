@@ -1,7 +1,7 @@
 ---
 title: The Strategy Pattern
 date: "2021-05-04T22:40:32.169Z"
-description: The Strategy pattern explained
+description: Let's be strategic for a while!
 ---
 
 As explained in the [Design Patterns](../design-patterns/) article, the purpose is for your system to be ready for changes. Tight coupling would require hard work to implement something that would satisfy your customer request.  
