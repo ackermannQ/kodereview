@@ -1,5 +1,6 @@
 # codeReview~
 
+My personal blog. Forked from Gatsby blog starter!
 
 If you would like to make a pull request:
 - Fork this repository
