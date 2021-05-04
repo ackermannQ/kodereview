@@ -250,3 +250,16 @@ Currently paying with Paypal: 35.0 $
 ```
 
 ## To conclude - The key takeaways
+As you could see from this example, a bad implementation would have force a developer to duplicate code and make future evolutions of the software very difficult.  
+By encapsulating the behaviour in a family of algorithms, the changing part of the software could remain independent from the client, providing great flexibility !  
+
+- Identify the logic that should be separated from your clients
+- Defines a family of algorithms, encapsulate each one, and make them interchangeable
+- You probably noticed the use of the word "_behaviour_" all along the article, that because the strategy pattern belongs to the __behavioral__ category of patterns
+- When you have different algorithms or method for the same task, it would be a good idea to implement a strategy pattern
+- You program can decide the implementation to use at runtime
+- [This link](https://www.youtube.com/watch?v=v9ejT8FO-7I) could show you a use of this pattern with Ducks ([yeah, ducks!](https://upload.wikimedia.org/wikipedia/commons/b/b1/Male_mallard_standing.jpg))
+#### Any remarks ?
+
+Make a [pull request!](!https://github.com/ackermannQ/quentinackermann)
+Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)

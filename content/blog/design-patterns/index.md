@@ -56,3 +56,8 @@ _This list would evolve with the different articles written_
 - They are classified in categories: Behavioral, Creational and Structural patterns
 - When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../decobserverorator-pattern/) or [Decorator](../decorator-pattern/) patterns
 - And remember, practice makes perfect!
+
+
+#### Any remarks ?
+Make a [pull request!](!https://github.com/ackermannQ/quentinackermann)
+Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)

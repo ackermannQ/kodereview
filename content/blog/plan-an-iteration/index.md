@@ -8,11 +8,16 @@ At some point, you will have to work in a team. If you are in the web developmen
 
 It's likely that you are working in iterations (or sprints). Your lead - or you - will address tickets per skills, will or whatever reasons to you. Now, you will have to estimate how long each ticket will take to complete.
 
-# How do you plan your iteration ?
+## How do you plan your iteration ?
 Short answer, you can't.
 The longer one is you will have to break down to small tasks each steps required to complete the backlog.
 
-# 
+## 
 
 
-# To conclude - The key takeaways
+## To conclude - The key takeaways
+
+#### Any remarks ?
+
+Make a [pull request!](!https://github.com/ackermannQ/quentinackermann)
+Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)

@@ -6,9 +6,14 @@ description: I can see you :)
 
 The observer pattern is ... And solve THIS particular issue
 
-# Theory - Use case
+## Theory - Use case
 More detail on what I just said above
 
-# Implementation - Example
+## Implementation - Example
 
-# To conclude - The key takeaways
+## To conclude - The key takeaways
+
+#### Any remarks ?
+
+Make a [pull request!](!https://github.com/ackermannQ/quentinackermann)
+Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)
