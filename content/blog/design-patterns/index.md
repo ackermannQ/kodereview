@@ -10,7 +10,7 @@ Junior devs mostly don't even know they exist.
 
 It's very interesting to think about the design of a software or an app at a high level, then using well-defined implementations to translate a somehow abstract idea to very concrete code.
 
-# Why do we use design pattern ?
+## Why do we use design pattern ?
 The idea is very simple. Some issues are recurrent when you are developing a software or an app and there are better ways than other to address them.  
 A design pattern is not code properly speaking, it's more of a template for how to solve a particular problem.  
 Something tricky is, especially as a beginner, you won't be able to tell the benefits of using a specific pattern. Actually it's when an application grows and needs to be specific or address specific needs that you will encounter some issues that would never have existed if the design was "good" from the begining.  
@@ -25,34 +25,34 @@ You are a valuable asset to your team and your company when you don't create hun
 
 An other advantage of using design patterns is to share common ground with more experienced developers. For instance, instead of describing step-by-step an algorithm you would use to solve a problem, just explain that you would use an observer pattern. It would make you look professional and avoid waist of time and as you should know, time is essence when it comes to software engineering.
 
-# Example of design patterns
+## Example of design patterns
 It exists lots of different patterns, classified in categories:  
 >Behavioral, Creational and Structural patterns  
 
 that tackle a specific kind of problem.
-## Strategy pattern
-Key Takeaway: Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
+### Strategy pattern
+Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
 You could also checkout [this link](../strategy-pattern/)
 
-## Observer pattern
-Key Takeaway: Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are __notified__ and __updated__ automatically.
+### Observer pattern
+Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are __notified__ and __updated__ automatically.
 
 You could also checkout [this link](../observer-pattern/)
 
-## Decorator pattern
-Key Takeaway:  
+### Decorator pattern 
 You could also checkout [this link](../decorator-pattern/)
 
 _This list would evolve with the different articles written_
 
-# Lecture to get started
+## Lecture to get started
 - If you don't want to invest right now in a paper book or kindle, you can get a grasp on many design patterns [there](https://sourcemaking.com)
 - An other great reading is [Head First Design Patterns](https://www.amazon.fr/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124), a free version is availabled [at this address](https://raw.githubusercontent.com/ajitpal/BookBank/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf)
 
 
-# To conclude - The key takeaways
+## To conclude - The key takeaways
 
 - Design patterns address specific problems with well thought, high-level solutions
 - It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining
 - They are classified in categories: Behavioral, Creational and Structural patterns
 - When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../decobserverorator-pattern/) or [Decorator](../decorator-pattern/) patterns
+- And remember, practice makes perfect!
