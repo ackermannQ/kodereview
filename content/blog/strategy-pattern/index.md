@@ -65,12 +65,188 @@ As explained, the implementation would work, the issue here is you would have to
 What was the principle of the strategy pattern ?  
 "Defines a family of algorithms, encapsulate each one, and make them interchangeable."  
 
+
 ![Using the pattern strategy](./goodImpl_diagram.png)
 
+The interface IPayment and it implementation are thought as a family of algorithms.  
+The client (Article and inherited classes) makes use of this family of algorithms.  
 
+The idea here is using composition instead of inheriting the "behaviour" payment because it ultimately gives more flexibility to your system.  
+
+
+Let's see what would the implementation (in Java) looks like:  
+
+__IPayment__:  
+```java
+public interface IPayment {
+   void pay(float price);
+}
+
+```
+Simple interface with a pay method. We will use it to define a family of algorithms.
+
+__CardPayment__:
+```java
+public class CardPayment implements IPayment {
+
+   private String cardNumber;
+   private String cryptogram;
+   private String expirationDate;
+
+   public CardPayment(String cardNumber, String cryptogram, String expirationDate) {
+      this.cardNumber = cardNumber;
+      this.cryptogram = cryptogram;
+      this.expirationDate = expirationDate;
+   }
+
+   @Override
+   public void pay(float price) {
+      System.out.println("Currently paying with a credit card: "+ price  + " $");
+   }
+
+}
+
+```
+This class implements the IPayment interface, and has all the specificities related to its specific behaviour (cardNumber, cryptogram, expirationDate). 
+
+__PaypalPayment__
+```java
+public class PaypalPayment implements IPayment {
+
+   private String id;
+   private String password;
+
+   public PaypalPayment(String id, String password) {
+      this.id = id;
+      this.password = password;
+
+   }
+
+   @Override
+   public void pay(float price) {
+      System.out.println("Currently paying with Paypal: " + price + " $");
+   }
+
+}
+
+```
+
+This class implements the IPayment interface, and has all the specificities related to its specific behaviour (id and password).
+
+As you can see, we took what would change in our system (the payment method) and encapsulated it. Now, it's going to be easier to chose the payment method we want, but first let's see how is implemented the Article class.
+
+**Article**:
+```java
+public class Article {
+
+   private String name;
+   private float price;
+   IPayment paymentBehaviour;
+
+   public Article(String name, float price) {
+      this.name = name;
+      this.price = price;
+   }
+
+   public String getName() {
+      return this.name;
+   }
+
+   public float getPrice() {
+      return this.price;
+   }
+
+   public float setPaymentBehaviour(IPayment payment) {
+      paymentBehaviour = payment;
+   }
+
+
+   public void performPayment() {
+      float price = this.getPrice();
+      paymentBehaviour.pay(price); /* This is called delegation. It allows you to not precise there the method that would actually do the payment  */
+   }
+
+}
+
+```
+
+
+**Book**:
+```java
+public class Book extends Article {
+
+    public Book(String name, float price) {
+        super(name, price);
+        paymentBehaviour = new CardPayment("12345678978975", "000", "01/01");
+    }
+
+}
+
+```
+This is in the Book class that the payment behaviour is described (here it's the CardPayment method). This is powerfull, the paymentBehaviour is set in the class but the card payment behaviour is not currently set there, it lives somewhere else. Thus, you just need to implement as many new payment methods as you like and call them where you need too.
+
+
+**Movie**:
 
 ```java
-Fly fly = new Fly();
+public class Movie extends Article {
+
+    public Movie(String name, float price) {
+        super(name, price);
+        paymentBehaviour = new PaypalPayment("85211", "pass");
+    }
+
+}
+
+```
+If we wouldn't have used the strategy pattern and we would have wanted to pay with a card here too, we would have had to duplicate code or inherit it. Then we may have passed unnecessarily this method to childs classes that we should then override ... and so. You probably now have the feeling that this would be very complicated when things may have been designed well from the begining.  
+
+You probably wonder what is the method:  
+
+```java
+public float setPaymentBehaviour(IPayment payment) {
+   paymentBehaviour = payment;
+}
+
+```
+
+It actually allows you to set dynamically at the runtime a payment method.  
+Finally, we have the following program running:
+
+**Main**:
+```java
+public class Main {
+   public static void main(String[] args) {
+
+      Book book = new Book("Book", 35);
+      Movie movie = new Movie("Movie", 9);
+
+      System.out.println("I'm buying a: " + book.getName());
+      book.performPayment();
+
+      System.out.println("I'm buying a: " + movie.getName());
+      movie.performPayment();
+
+      book.setPaymentBehaviour(new PaypalPayment("85211", "pass"));
+      System.out.println("I changed the payment method for buying a: " + book.getName());
+      book.performPayment();
+   }
+
+}
+
+```
+
+Giving the following output:
+```
+I'm buying a: Book
+Currently paying with a card: 35.0 $
+
+I'm buying a: Movie
+Currently paying with Paypal: 9.0 $
+
+I changed the payment method for buying a: Book
+Currently paying with Paypal: 35.0 $
+
 ```
 
 ## To conclude - The key takeaways
