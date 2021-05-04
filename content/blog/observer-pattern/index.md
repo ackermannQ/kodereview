@@ -5,7 +5,7 @@ description: I can see you :)
 ---
 
 How does it work ?  
-An __observer__ registers with a __subject__ (or __observable__) which would notify the observer when its state updates. It allows a variety of objects to update o
+An __observer__ _registers_ with a __subject__ (or __observable__) which would notify the observer when its state updates. It allows a variety of objects to update o
 
 ## Theory - Use case
 More detail on what I just said above
