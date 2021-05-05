@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[codeReview~]]></title><description><![CDATA[codeReview ~ | I explain code and coding practices.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 May 2021 11:49:36 GMT</lastBuildDate><item><title><![CDATA[[JS] - Reduce]]></title><description><![CDATA[Reduce is used for … With diagrams of maths sets Example of use Implementation To conclude - The key takeaways Conlude this serie on map…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/reduce/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/reduce/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Reduce is used for …&lt;/p&gt;
+&lt;p&gt;With diagrams of maths sets&lt;/p&gt;
+&lt;h2&gt;Example of use&lt;/h2&gt;
+&lt;h2&gt;Implementation&lt;/h2&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;p&gt;Conlude this serie on &lt;a href=&quot;../map&quot;&gt;map&lt;/a&gt;, &lt;a href=&quot;../filter&quot;&gt;filter&lt;/a&gt; and &lt;a href=&quot;../reduce&quot;&gt;reduce&lt;/a&gt; which are basic knowledge in JS.&lt;/p&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[JS] - Map]]></title><description><![CDATA[Map is used for … With diagrams of maths sets Example of use Implementation To conclude - The key takeaways You can go further with the…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/map/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/map/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Map is used for …&lt;/p&gt;
+&lt;p&gt;With diagrams of maths sets&lt;/p&gt;
+&lt;h2&gt;Example of use&lt;/h2&gt;
+&lt;h2&gt;Implementation&lt;/h2&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;p&gt;You can go further with the &lt;a href=&quot;../filter&quot;&gt;filter&lt;/a&gt; and &lt;a href=&quot;../reduce&quot;&gt;reduce&lt;/a&gt; methods.&lt;/p&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[JS] - Filter]]></title><description><![CDATA[Filter is used for … With diagrams of maths sets Example of use Implementation To conclude - The key takeaways You can go on with the reduce…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/filter/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/filter/</guid><pubDate>Mon, 07 Jun 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Filter is used for …&lt;/p&gt;
+&lt;p&gt;With diagrams of maths sets&lt;/p&gt;
+&lt;h2&gt;Example of use&lt;/h2&gt;
+&lt;h2&gt;Implementation&lt;/h2&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;p&gt;You can go on with the &lt;a href=&quot;../reduce&quot;&gt;reduce&lt;/a&gt; article or check out my article on &lt;a href=&quot;../map&quot;&gt;map&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[ReactJS] - Render props]]></title><description><![CDATA[If you don’t know anything about react, I recommend you my Introduction to ReactJS Coming… To conclude - The key takeaways Any remarks…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/render-props/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/render-props/</guid><pubDate>Tue, 01 Jun 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;If you don’t know anything about react, I recommend you my &lt;a href=&quot;../introduction-to-reactjs/&quot;&gt;Introduction to ReactJS&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Coming…&lt;/h2&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[ReactJS] - Introduction to ReactJS]]></title><description><![CDATA[I believe in explaining with examples, so in this introduction to ReactJS, we will build a small application of … From now, I would refere…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/introduction-to-reactjs/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/introduction-to-reactjs/</guid><pubDate>Mon, 31 May 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I believe in explaining with examples, so in this introduction to ReactJS, we will build a small application of …&lt;br&gt;
+From now, I would refere to ReactJS with react (not to be confused with &lt;a href=&quot;https://reactnative.dev/&quot;&gt;React Native&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;Idea behind React&lt;/h2&gt;
+&lt;h3&gt;Components&lt;/h3&gt;
+&lt;h3&gt;Classes&lt;/h3&gt;
+&lt;h3&gt;Functions&lt;/h3&gt;
+&lt;h2&gt;Props&lt;/h2&gt;
+&lt;h2&gt;State&lt;/h2&gt;
+&lt;p&gt;Details and examples&lt;/p&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Data Structure] - Small intro to big O]]></title><description><![CDATA[Time execution varies between computers, so instead of talking about seconds or miliseconds, we talk about complexity to describe how long…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/small-intro-to-bigo/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/small-intro-to-bigo/</guid><pubDate>Mon, 10 May 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Time execution varies between computers, so instead of talking about seconds or miliseconds, we talk about complexity to describe how long or how much space would an algorithm take.&lt;/p&gt;
+&lt;p&gt;Intro to big O notation, a bit of maths and signification&lt;/p&gt;
+&lt;h2&gt;O(1)&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;O(N)&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;O(log(N))&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;O(N²)&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;O(2^N)&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;O(N!)&lt;/h2&gt;
+&lt;p&gt;Details and example&lt;/p&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Agile] - How do you plan your iteration?]]></title><description><![CDATA[At some point, you will have to work in a team. If you are in the web development it could be the front-end or the back-end team. If you are…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/plan-an-iteration/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/plan-an-iteration/</guid><pubDate>Fri, 07 May 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At some point, you will have to work in a team. If you are in the web development it could be the front-end or the back-end team. If you are a software developer, it could be a team specific to your software. Anyway, you will play a part in your team, you will have different tickets to process, you will have to plan the time each one will take. And you will systematically be wrong.&lt;/p&gt;
+&lt;p&gt;It’s likely that you are working in iterations (or sprints). Your lead - or you - will address tickets per skills or whatever reasons to the team members. Now, you will have to estimate how long each ticket will take to complete.&lt;/p&gt;
+&lt;h2&gt;How does it work ?&lt;/h2&gt;
+&lt;p&gt;How do you plan your iteration ?&lt;br&gt;
+Short answer, you can’t.  &lt;/p&gt;
+&lt;p&gt;The longer one is you will have to break down to small tasks each steps required to complete a backlog. Besides, someone from the QA or Product owning would probably add several bugs and features along the way. So, how would you be able de plan your work in theses conditions ?  &lt;/p&gt;
+&lt;p&gt;Usually, your manager will plan a meeting at the begining of an iteration where the differents tickets (backlogs or bugs) are dispatched among the team members. Now, you have your tickets, the first thing you should do is try to split in small tasks your features or bugs.  &lt;/p&gt;
+&lt;p&gt;You have to understand that in order to plan correctly - or at least the best - your iteration, you have to take some time to organize your work. It would take several hours, even hald a day, but it’s really important for the rest of your team to know exactly how much time you have left !   &lt;/p&gt;
+&lt;p&gt;Try to define the tasks you have to accomplish in order to realize your work. Then, the trickiest part, try to imagine how long it will take to complete. At first, you will be wrong, you will tend to attribute less hours than it really requires to your task. Because everything is usually more complicated than what you have anticipated. No worries, as you gain experience and good knowledge of the code base you will have a better idea of the time required to complete your work. &lt;/p&gt;
+&lt;p&gt;An other pitfall is neglecting the incoming bugs. Some iterations you would have less returns from the QA or the clients, and often you will wonder how the applicaiton is working at all. But remember, you will on average get bugs during your iteration so remember to let some time unassigned for these occasions, or upcoming meetings.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;So am I doomed ?  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Well, yes, you probably won’t have any chance to plan perfectly your work, you will plan to much or to little time.&lt;br&gt;
+Accept it and move on, try to do your best!&lt;br&gt;
+A good habit is to add by default 25% more time to what you had anticipated initially. It seems a lot but experience shows that it’s very common that your feature evolves along the way and you end up refactoring your code or just changing everything you initially did.  &lt;/p&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;p&gt;You may not be able to plan perfectly your iteration, however it doesn’t mean that you should spend little time trying to. This is essential and a point that really sort out new developers to experienced ones.&lt;br&gt;
+Why?&lt;br&gt;
+Because it makes you look professional. Even if it’s not perfect, you have planned your work, you have thought about it and if someone has a related question, you already have the begining of an answer.&lt;br&gt;
+Besides it’s a very important skill that is not necessarily taught at the University, so just by doing this you would stand up from the mass of other developers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spend really extensive time to plan your iteration&lt;/li&gt;
+&lt;li&gt;All the work you are doing now you won’t have to do later, planing and analyzing is essential for further work&lt;/li&gt;
+&lt;li&gt;Add 25% to every initial planned time&lt;/li&gt;
+&lt;li&gt;It would make you looks professional &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Design] - The Observer Pattern]]></title><description><![CDATA[How does it work ? An observer registers with a subject (or observable) which would notify the observer when its state updates. It allows a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/observer-pattern/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/observer-pattern/</guid><pubDate>Wed, 05 May 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;How does it work ?&lt;br&gt;
+An &lt;strong&gt;observer&lt;/strong&gt; &lt;em&gt;registers&lt;/em&gt; with a &lt;strong&gt;subject&lt;/strong&gt; (or &lt;strong&gt;observable&lt;/strong&gt;) which would notify the observer when its state updates. It allows a variety of objects to update o&lt;/p&gt;
+&lt;h2&gt;Theory - Use case&lt;/h2&gt;
+&lt;p&gt;More detail on what I just said above&lt;/p&gt;
+&lt;h2&gt;Implementation - Example&lt;/h2&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Design] - The Strategy Pattern]]></title><description><![CDATA[As explained in the Design Patterns article, the purpose is for your system to be ready for changes. Tight coupling would require hard work…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/strategy-pattern/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/strategy-pattern/</guid><pubDate>Tue, 04 May 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;As explained in the &lt;a href=&quot;../design-patterns/&quot;&gt;Design Patterns&lt;/a&gt; article, the purpose is for your system to be ready for changes. Tight coupling would require hard work to implement something that would satisfy your customer request.&lt;br&gt;
+This pattern is widely used in order to separate what may change in an application from what should stay the same.&lt;br&gt;
+And it’s also one of the simplest pattern to learn so let’s get a grasp on our first design pattern.&lt;/p&gt;
+&lt;h2&gt;Theory&lt;/h2&gt;
+&lt;h3&gt;Main idea&lt;/h3&gt;
+&lt;p&gt;The idea is to take what is going to change in your software, encapsulate and isolate it.&lt;br&gt;
+This would help you have a hierarchy between your classes and object, and not duplicate code between similar objects.&lt;br&gt;
+At the end of the day your methods, that are similar but show different behaviours should vary independently than the other aspects of the client.  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A client is anything, it could be objects, services … whatever&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;The main pitfall there is failing to identify the logic that should be separated from your clients. Worst case scenario, you use inheritence to create classes that are different but sharing common method.&lt;br&gt;
+This is called code duplication and this is &lt;em&gt;bad&lt;/em&gt;, bad, &lt;strong&gt;bad&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Use case&lt;/h3&gt;
+&lt;p&gt;Let’s say you work for a company selling online articles - like Amazon. You are currently working on the backend, more specifically on the checkout part.&lt;br&gt;
+You may have built an Article class looking like :  &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 146px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/codeReview/static/0395422d6224d537e25bc46cf70e10d0/4fcfe/badImpl_articleClass.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.6164383561644%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7DAAAOwwHHb6hkAAADUklEQVQ4y5WT6VOaVxjF+XOdJjOJNhoxboliBRQjoCxiWtuZJqmtW8QdXFAQRfZFNjcQBNyzNon5dd6rRswkH/rhzDP3vu899zzPOVcWd+s5TWgpRbUcSohd1pO4nqSrnYHeCn43VjA0cI/nfT+RC3RxvKnnKKblKKYTOIzqOEt0E1s1Iws7OjmNdXAU0XAc1XAY7qQQUHO2+ZTd9V+YG6xi/I+7jA7c4Z/+CnbW2igGOzjwqzgIqAXyfjVHYSVBhw7Z9oaeQkhFwqkg4Wwl61NxsvmU0OJjYsstZLwq3qb1kDMLvN/uEet3ZXib0vNpV0fKY0KWDRpIuVuZflnJslXOxmwDHzMGnBN1rLyqZXjgLp7ZBihauMgYYN8EuW8g7RVNZAL9yPJhI8fRTpJOBXsbSt5v6UmvKkistLCz3s6H7Z6rg+Ybgrz59nrfDCUT2eAzZHF3N4tj1cz+/TNzQw9IuduIOJ4w9Vcl04NVlKJdvEnreJ3S8UZqb0sysZuzpJZ3Uvtbes5TOl4nu4iuGpCFljUEFxpZfFWLc7KOpfHLahupYXlCjmO8lthKK/aRahxWObbhajZdCnz2JqwvK1kYe4h7poFCWEVopeey5ZyvncjSEzzT9Xhn6vHNNeKdayC00IxtsErMVTLHM1PP2mQd+WAH+z4VS6M1rFrlTL2ohP0e8pFfkWUCvWy5W8XPjtEaXBNy1qYe4bU1ErA38SljwGdrZGmkRlwUWXzMZ8mcfJ8wilI/XyRTDgzs+i2SQhO76wrhqBQbn6RsvlnMUrrkPKnlINhBfKWFmKNFqPq42yucvcgYr2CCgpE9iTATMBBebGJp7CHTL+5jH67GP9+E0ypnx9POnlfJ5PP7uCbqREY5/Y0vWaOAiIsgLiPMhYzkA0qC880UQ51Czb5fTdrdRsZ3GeqsVymidJ7oFgTXZNf1IltGmA0Y8EzLGf/zHrahB7inHpELqEXQpb3zhBYO+6FgEdn7qixrulFYTii5/GFbSynSRTGs4TjWxb87PZe5S+nEjCSS61qu7LuE0gwpmL6+1Vsqbg3+x/i8Z4T8lcvFmBlOLFDsu0HJ8v8gxee0j3zkGbJ1m4a0W0ncqSLh+j7iTqXAj7+rSLvbWbfr+Q8ypVMyx6Fe4gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bad implementation&quot;
+        title=&quot;bad implementation&quot;
+        src=&quot;/codeReview/static/0395422d6224d537e25bc46cf70e10d0/4fcfe/badImpl_articleClass.png&quot;
+        srcset=&quot;/codeReview/static/0395422d6224d537e25bc46cf70e10d0/4fcfe/badImpl_articleClass.png 146w&quot;
+        sizes=&quot;(max-width: 146px) 100vw, 146px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The article has a name, a price and you can get its attributes or pay. Great!  &lt;/p&gt;
+&lt;p&gt;Now, what would happen if you decide that you need an other means to pay. Let’s say you want to give the opportunity to your customer to buy an article using Paypal, how would you implement this logic ?&lt;/p&gt;
+&lt;p&gt;Well, you could abstract the Article class, along with the pay() method. You would then have two classes ArticleCard and ArticlePaypal.
+The pay method in ArticleCard should take in argument:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cardNumber&lt;/li&gt;
+&lt;li&gt;expirationDate&lt;/li&gt;
+&lt;li&gt;cryptogram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The pay method in ArticlePaypal should take in argument:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;id&lt;/li&gt;
+&lt;li&gt;password&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What if now, you would have a brand new e-payment method coming on the market that would require:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;id&lt;/li&gt;
+&lt;li&gt;password&lt;/li&gt;
+&lt;li&gt;creditCard&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What if now, you would have an other card payment method, not with a credit card, but taking the same arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;giftCardNumber&lt;/li&gt;
+&lt;li&gt;expirationDate&lt;/li&gt;
+&lt;li&gt;cryptogram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This would be unmaintenable and we would have to duplicate heavily our code.&lt;br&gt;
+Let’s see in practice how we could solve this problem using the strategy pattern.&lt;/p&gt;
+&lt;h2&gt;Implementation - Example&lt;/h2&gt;
+&lt;h3&gt;Bad implementation&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 408px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/codeReview/static/c12a8b13adac9867ae86660a142ff7cd/e7c18/badImpl_articleCardClass.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 48.10126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB+0lEQVQoz42R+0uTcRTG37+5+iWokIxwOZ1z7eJs+8E0NbIgNeiCothluNG23H3TXd7Lmm7u6ntr7yf2ToYERQc+53B4Hh7Ol6/QET/RVQ7pygdk429JHr9BLn6w97a4R1v+gmnqjKpdP6Yn79ORD8gnt/n+bYvij52JtyVFEDL7tyl8nqKdeYJamrdnP+9ELc6jFmfpFQNoat8OPI15yR3e5Szy0NZH3m5uFq3kQi85aeXDCJF3d4h9nEJJzKGeeqERGvNzxDJDeRVdG9iBhWiQxN49GicurkpeUJZBDmJJQZAD9CsbCF93bhF5f5/M0TSVqIOLtIvz1DzNzAIXKSedUmgSWI4/I334gPTRNFnbP0M15qAcdVCNPaaaDCFcpmbo5D1cZhdoZVy0Mgt24GXWTTPtpHcaxtAHWECv/AL9zI125sOs+LDEgM1QDIDks3WhHn9EM+2mX1gEJXiDZVACmOLK5MJGboV6wsH5iYtuwQNSEEtcGj9ZCtAvryNcFecwKkuYVf9YnBAE0Y9eGweOLlRra6B4QPGD7APRC5L3enrol58jWJVZkP3XwtMbjEyLmLUwujb+5W5tF01cQxM30cQNNGlzgi6t06nuIgwqq2jyazTp1R9soUsvGUjbGLpqBxqGiab/HcP4hWCYQ/6FaQ6xLLBG7T/qNzuHwiWwxIadAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bad implementation&quot;
+        title=&quot;bad implementation&quot;
+        src=&quot;/codeReview/static/c12a8b13adac9867ae86660a142ff7cd/e7c18/badImpl_articleCardClass.png&quot;
+        srcset=&quot;/codeReview/static/c12a8b13adac9867ae86660a142ff7cd/c26ae/badImpl_articleCardClass.png 158w,
+/codeReview/static/c12a8b13adac9867ae86660a142ff7cd/6bdcf/badImpl_articleCardClass.png 315w,
+/codeReview/static/c12a8b13adac9867ae86660a142ff7cd/e7c18/badImpl_articleCardClass.png 408w&quot;
+        sizes=&quot;(max-width: 408px) 100vw, 408px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;As explained, the implementation would work, the issue here is you would have to create the same amount of classes corresponding to each payment method with their own specificities. Besides, adding such things as expiration date or cryptogram not related to an Article is a bad practice.  &lt;/p&gt;
+&lt;h3&gt;Using the strategy pattern&lt;/h3&gt;
+&lt;p&gt;What was the principle of the strategy pattern ?&lt;br&gt;
+“Defines a family of algorithms, encapsulate each one, and make them interchangeable.”  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./goodImpl_diagram.png&quot; alt=&quot;Using the pattern strategy&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The interface IPayment and it implementation are thought as a family of algorithms.&lt;br&gt;
+The client (Article and inherited classes) makes use of this family of algorithms.  &lt;/p&gt;
+&lt;p&gt;The idea here is using composition instead of inheriting the “behaviour” payment because it ultimately gives more flexibility to your system.  &lt;/p&gt;
+&lt;p&gt;Let’s see what would the implementation (in Java) looks like:  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IPayment&lt;/strong&gt;:  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;interface&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;pay&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Simple interface with a pay method. We will use it to define a family of algorithms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CardPayment&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;CardPayment&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;implements&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; cardNumber&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; cryptogram&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; expirationDate&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;CardPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; cardNumber&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; cryptogram&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; expirationDate&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cardNumber &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cardNumber&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cryptogram &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cryptogram&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;expirationDate &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; expirationDate&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+   &lt;span class=&quot;token annotation punctuation&quot;&gt;@Override&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;pay&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Currently paying with a credit card: &quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; price  &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; $&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This class implements the IPayment interface, and has all the specificities related to its specific behaviour (cardNumber, cryptogram, expirationDate). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PaypalPayment&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PaypalPayment&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;implements&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; id&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; password&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PaypalPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; id&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; password&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; id&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;password &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; password&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+   &lt;span class=&quot;token annotation punctuation&quot;&gt;@Override&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;pay&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Currently paying with Paypal: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; price &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; $&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This class implements the IPayment interface, and has all the specificities related to its specific behaviour (id and password).&lt;/p&gt;
+&lt;p&gt;As you can see, we took what would change in our system (the payment method) and encapsulated it. Now, it’s going to be easier to chose the payment method we want, but first let’s see how is implemented the Article class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Article&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Article&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; paymentBehaviour&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Article&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getPrice&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setPaymentBehaviour&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; payment&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      paymentBehaviour &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; payment&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;performPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getPrice&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      paymentBehaviour&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;pay&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;/* This is called delegation. It allows you to not precise there the method that would actually do the payment  */&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Book&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Book&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Article&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Book&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        paymentBehaviour &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;CardPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;12345678978975&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;000&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;01/01&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is in the Book class that the payment behaviour is described (here it’s the CardPayment method). This is powerfull, the paymentBehaviour is set in the class but the card payment behaviour is not currently set there, it lives somewhere else. Thus, you just need to implement as many new payment methods as you like and call them where you need too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Movie&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Movie&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Article&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Movie&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        paymentBehaviour &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PaypalPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;85211&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;pass&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If we wouldn’t have used the strategy pattern and we would have wanted to pay with a card here too, we would have had to duplicate code or inherit it. Then we may have passed unnecessarily this method to childs classes that we should then override … and so. You probably now have the feeling that this would be very complicated when things may have been designed well from the begining.  &lt;/p&gt;
+&lt;p&gt;You probably wonder what is the method:  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setPaymentBehaviour&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;IPayment&lt;/span&gt; payment&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+   paymentBehaviour &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; payment&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It actually allows you to set dynamically at the runtime a payment method.&lt;br&gt;
+Finally, we have the following program running:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Main&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+      &lt;span class=&quot;token class-name&quot;&gt;Book&lt;/span&gt; book &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Book&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Book&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;35&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;Movie&lt;/span&gt; movie &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Movie&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Movie&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+      &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;I&apos;m buying a: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; book&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      book&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;performPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+      &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;I&apos;m buying a: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; movie&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      movie&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;performPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+      book&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setPaymentBehaviour&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PaypalPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;85211&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;pass&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;I changed the payment method for buying a: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; book&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      book&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;performPayment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Giving the following output:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;I&amp;#39;m buying a: Book
+Currently paying with a card: 35.0 $
+
+I&amp;#39;m buying a: Movie
+Currently paying with Paypal: 9.0 $
+
+I changed the payment method for buying a: Book
+Currently paying with Paypal: 35.0 $&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;p&gt;As you could see from this example, a bad implementation would have forced a developer to duplicate code and make future evolutions of the software very difficult.&lt;br&gt;
+By encapsulating the behaviour in a family of algorithms, the changing part of the software could remain independent from the client, providing great flexibility !  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the logic that should be separated from your clients&lt;/li&gt;
+&lt;li&gt;Defines a family of algorithms, encapsulate each one, and make them interchangeable&lt;/li&gt;
+&lt;li&gt;You probably noticed the use of the word ”&lt;em&gt;behaviour&lt;/em&gt;” all along the article, that’s because the strategy pattern is a &lt;strong&gt;behavioral&lt;/strong&gt; pattern&lt;/li&gt;
+&lt;li&gt;When you have different algorithms or methods for the same task, it would be small hint to implement a strategy pattern&lt;/li&gt;
+&lt;li&gt;Your program can decide the implementation to use at the runtime&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=v9ejT8FO-7I&quot;&gt;This link&lt;/a&gt; could show you a use of this pattern with Ducks (&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b1/Male_mallard_standing.jpg&quot;&gt;yeah, ducks!&lt;/a&gt;)&lt;/p&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Design] - Design Patterns]]></title><description><![CDATA[For many developers, design patterns are something they vaguely heard about. Like some dark technology only senior devs have to worry about…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/design-patterns/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/design-patterns/</guid><pubDate>Mon, 03 May 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;For many developers, design patterns are something they vaguely heard about. Like some dark technology only senior devs have to worry about.&lt;br&gt;
+Junior devs mostly don’t even know they exist.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Personnally, once I found out about design patterns, it took my skillset to the next level.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s very interesting to think about the design of a software or an app at a high level, then using well-defined implementations to translate a somehow abstract idea to very concrete code.&lt;/p&gt;
+&lt;h2&gt;Why do we use design pattern ?&lt;/h2&gt;
+&lt;p&gt;The idea is very simple. Some issues are recurrent when you are developing a software or an app and there are better ways than other to address them.&lt;br&gt;
+A design pattern is not code properly speaking, it’s more of a template for how to solve a particular problem.&lt;br&gt;
+Something tricky is, especially as a beginner, you won’t be able to tell the benefits of using a specific pattern. Actually it’s when an application grows and needs to be specific or address specific needs that you will encounter some issues that would never have existed if the design was “good” from the begining.&lt;br&gt;
+As you may have guessed, it’s very important to imagine how the application would grow to use effectively design patterns.&lt;br&gt;
+At the beginning you would have the feeling you are losing time by encapsulating to much or using delegation where you don’t feel you have to.&lt;br&gt;
+But at the end of the day, once the application would grow and expend, you will congratulate yourself for being so careful.  &lt;/p&gt;
+&lt;p&gt;Most people in tech - or at least in management - know that it’s expensive to maintain a software and fix the bugs:&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/09e48/bugsCost.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.632911392405056%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABcSAAAXEgFnn9JSAAABhElEQVQoz11Si46bMBDk/3+u1Z3S61XpJaRHAhiIHyQ22J6pMIE8VkJrRqvxzKwzAJwqIjBEz6UWPHXg/h8jEQIxDIS1ywxuXWRIw2SII523zMszfQhPpE+EUhL5jjgdCWeJG2HiIUW2SmKg0JL7suPZXFbCV4WpvCe6lg+12BGZulhu9iWPbceDEAkvWsWI12muNtF15OAYSSoleZYdTN/PCvXF8v3rxEpK/hMi2f+uW0Z9Ik1FmJK0ZwKBiJitts1sdcpSNoQUgOqmfJ8t53WdbhVVQTrFKXI33TAa8ipIXRFNvap+iOFueQEv7sqDqFNevcippJpt9YYsCvqypPj8xabY0qqKDPbxFdyXcls53DjAiD307g0mf8fhY4PfP39g+3eLt80Gf3ZfOCoFoc9o2wPKpoAd3bLkyFlYnRTGGNdNajswgBx8oB0DXYisZJ+wq3VsVJ+U9c7T+5fnRbbZMAx6KqWUllJOh7nPqFZK6t6YhE8zzlpNcv0ATF0BuJLc/Qf5UgmLxDTHCwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bugs cost&quot;
+        title=&quot;Bugs cost&quot;
+        src=&quot;/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/f058b/bugsCost.png&quot;
+        srcset=&quot;/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/c26ae/bugsCost.png 158w,
+/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/6bdcf/bugsCost.png 315w,
+/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/f058b/bugsCost.png 630w,
+/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/40601/bugsCost.png 945w,
+/codeReview/static/10f8e1d9809879225968b8b3829bdbb2/09e48/bugsCost.png 974w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You are a valuable asset to your team and your company when you don’t create hundreds of bugs each time you create a feature. Having - at least a basic - knowledge of some design patterns can’t hurt.&lt;/p&gt;
+&lt;p&gt;An other advantage of using design patterns is to share common ground with more experienced developers. For instance, instead of describing step-by-step an algorithm you would use to solve a problem, just explain that you would use an observer pattern. It would make you look professional and avoid waist of time and as you should know, time is essence when it comes to software engineering.&lt;/p&gt;
+&lt;h2&gt;Example of design patterns&lt;/h2&gt;
+&lt;p&gt;It exists lots of different patterns, classified in categories:  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Behavioral, Creational and Structural patterns  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;that tackle a specific kind of problem.&lt;/p&gt;
+&lt;h3&gt;Strategy pattern&lt;/h3&gt;
+&lt;p&gt;Defines a family of algorithms, encapsulate each one, and make them interchangeable.&lt;br&gt;
+You could also checkout &lt;a href=&quot;../strategy-pattern/&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Observer pattern&lt;/h3&gt;
+&lt;p&gt;Defines a one-to-many dependency between objects so that when one of them changes, all of its dependents are &lt;strong&gt;notified&lt;/strong&gt; and &lt;strong&gt;updated&lt;/strong&gt; automatically.&lt;/p&gt;
+&lt;p&gt;You could also checkout &lt;a href=&quot;../observer-pattern/&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Decorator pattern&lt;/h3&gt;
+&lt;p&gt;You could also checkout &lt;a href=&quot;../decorator-pattern/&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This list would evolve with the different articles written&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Lecture to get started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;If you don’t want to invest right now in a paper book or kindle, you can get a grasp on many design patterns &lt;a href=&quot;https://sourcemaking.com&quot;&gt;there&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;An other great reading is &lt;a href=&quot;https://www.amazon.fr/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124&quot;&gt;Head First Design Patterns&lt;/a&gt;, a free version is availabled &lt;a href=&quot;https://raw.githubusercontent.com/ajitpal/BookBank/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf&quot;&gt;at this address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;To conclude - The key takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design patterns address specific problems with well thought, high-level solutions&lt;/li&gt;
+&lt;li&gt;It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining&lt;/li&gt;
+&lt;li&gt;They are classified in categories: Behavioral, Creational and Structural patterns&lt;/li&gt;
+&lt;li&gt;When you get started, you definetely should know - and implement at least once - the &lt;a href=&quot;../strategy-pattern/&quot;&gt;Strategy&lt;/a&gt;, &lt;a href=&quot;../decobserverorator-pattern/&quot;&gt;Observer&lt;/a&gt; or &lt;a href=&quot;../decorator-pattern/&quot;&gt;Decorator&lt;/a&gt; patterns&lt;/li&gt;
+&lt;li&gt;And remember, practice makes perfect!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Any remarks ?&lt;/h4&gt;
+&lt;p&gt;Make a &lt;a href=&quot;!https://github.com/ackermannQ/quentinackermann&quot;&gt;pull request&lt;/a&gt; or open an &lt;a href=&quot;https://github.com/ackermannQ/quentinackermann/issues&quot;&gt;issue&lt;/a&gt;!&lt;br&gt;
+Don’t know how to do it ? Check out this &lt;a href=&quot;https://opensource.com/article/19/7/create-pull-request-github&quot;&gt;very well explained tutorial&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
