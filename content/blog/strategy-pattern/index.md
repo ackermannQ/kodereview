@@ -261,5 +261,5 @@ By encapsulating the behaviour in a family of algorithms, the changing part of t
 - [This link](https://www.youtube.com/watch?v=v9ejT8FO-7I) could show you a use of this pattern with Ducks ([yeah, ducks!](https://upload.wikimedia.org/wikipedia/commons/b/b1/Male_mallard_standing.jpg))
 #### Any remarks ?
 
-Make a [pull request!](!https://github.com/ackermannQ/quentinackermann)
+Make a [pull request](!https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
 Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)
