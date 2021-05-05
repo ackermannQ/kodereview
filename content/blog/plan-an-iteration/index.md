@@ -1,6 +1,6 @@
 ---
 title: "[Agile] - How do you plan your iteration?"
-date: "2021-05-31T22:12:03.284Z"
+date: "2021-05-07T22:12:03.284Z"
 description: "Short answer, you can't."
 ---
 
@@ -38,6 +38,7 @@ Besides it's a very important skill that is not necessarily taught at the Univer
 - Spend really extensive time to plan your iteration
 - All the work you are doing now you won't have to do later, planing and analyzing is essential for further work
 - Add 25% to every initial planned time
+- It would make you looks professional 
 
 #### Any remarks ?
 
