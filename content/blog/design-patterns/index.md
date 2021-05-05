@@ -32,6 +32,7 @@ It exists lots of different patterns, classified in categories:
 that tackle a specific kind of problem.
 ### Strategy pattern
 Defines a family of algorithms, encapsulate each one, and make them interchangeable.  
+
 You could also checkout [this link](../strategy-pattern/)
 
 ### Observer pattern
