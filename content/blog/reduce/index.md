@@ -1,6 +1,6 @@
 ---
 title: "[JS] - Reduce"
-date: "2021-10-5T22:40:32.169Z"
+date: "2021-10-05T22:40:32.169Z"
 description: Explained and implemented
 
 ---
