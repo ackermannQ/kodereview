@@ -1,3 +1,5 @@
+import { graphql, useStaticQuery } from "gatsby"
+import PropTypes from "prop-types"
 /**
  * SEO component that queries for data with
  *  Gatsby's useStaticQuery React hook
@@ -6,10 +8,9 @@
  */
 
 import * as React from "react"
-import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
-import favicon from '../images/favicon.png'
+
+import favicon from '../images/stuff.png'
 
 const Seo = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
