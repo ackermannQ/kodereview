@@ -9,7 +9,7 @@ Time execution varies between computers, so instead of talking about seconds or 
 Big O notations are essentials because having performant algorithms means having a fast-responding software. Who knows, you might even get a [nice reward](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/) for optimizing an existing algorithm. [Full story there](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/).  
 
 Just a bit of maths to get a feeling on big O meaning. It actually describes the limiting behavior of a function when the argument tends to a value or infinity.  
-So, when you are saying O(N), you are actually saying, well my algorithm will take a number of steps dominated by the linear function n -> n.  
+So, when you are saying O(N), you are actually saying, well my algorithm will take a number of steps that would be dominated by the linear function f(N) = N.  
 Just another example an we will dive into big O notation applied to computer science.
 
 ```
