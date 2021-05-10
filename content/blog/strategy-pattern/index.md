@@ -259,6 +259,7 @@ By encapsulating the behaviour in a family of algorithms, the changing part of t
 - When you have different algorithms or methods for the same task, it would be small hint to implement a strategy pattern
 - Your program can decide the implementation to use at the runtime
 - [This link](https://www.youtube.com/watch?v=v9ejT8FO-7I) could show you a use of this pattern with Ducks ([yeah, ducks!](https://upload.wikimedia.org/wikipedia/commons/b/b1/Male_mallard_standing.jpg))
+- Full project [available here](https://github.com/ackermannQ/design_patterns/tree/master/Strategy_Article/src)
 #### Any remarks ?
 
 Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
