@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `codeReview~`,
+    title: `kodeReview~`,
     author: {
       name: `Quentin Ackermann`,
       summary: `I explain code and coding practices.`,
     },
-    description: `codeReview ~ | I explain code and coding practices.`,
+    description: `kodeReview ~ | I explain code and coding practices.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       linkedIn: `quentin-ackermann-537178176/`,

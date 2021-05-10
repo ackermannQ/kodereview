@@ -1,5 +1,5 @@
+import { graphql, Link } from "gatsby"
 import * as React from "react"
-import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -12,7 +12,7 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Seo title="codeReview" />
+        <Seo title="kodeReview" />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -25,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="codeReview" />
+      <Seo title="kodeReview" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
