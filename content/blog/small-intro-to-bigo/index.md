@@ -1,6 +1,6 @@
 ---
 title: "[Data Structure] - Small intro to big O"
-date: "2021-05-10T22:40:32.169Z"
+date: "2021-05-15T22:40:32.169Z"
 description: Will you have the time to catch it all ? 
 ---
 
@@ -110,6 +110,6 @@ Details and example
 
 #### Any remarks ?
 
-Make a [pull request](!https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
+Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
 Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)
 

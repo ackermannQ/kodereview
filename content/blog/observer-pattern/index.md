@@ -1,6 +1,6 @@
 ---
 title: "[Design] - The Observer Pattern"
-date: "2021-05-05T22:40:32.169Z"
+date: "2021-05-10T22:40:32.169Z"
 description: I can see you :)
 ---
 
@@ -39,8 +39,9 @@ Put differently, it's only when the subject changes that it notifies the observe
 
 > Great flexibility
 
+- You could also check out my article on [design Patterns](../design-patterns/)
 #### Any remarks ?
 
-Make a [pull request](!https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
+Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
 Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)
 
