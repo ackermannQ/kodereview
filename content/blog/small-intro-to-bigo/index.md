@@ -80,6 +80,15 @@ Finally the complexity is O(N).
 
 Exemple:
 
+```java 
+String[] names = {"Mike", "John", "Tim", "Mag"};
+
+for (int i = 0; j < names.length; i++) {
+   System.out.println(names[i]);
+}
+
+
+```
 Mix of O(1) and O(N)
 ## O(log(N))
 Details and example
