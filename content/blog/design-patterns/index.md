@@ -21,9 +21,9 @@ But at the end of the day, once the application would grow and expend, you will 
 Most people in tech - or at least in management - know that it's expensive to maintain a software and fix the bugs:  
 ![Bugs cost](./bugsCost.png)
 
-You are a valuable asset to your team and your company when you don't create hundreds of bugs each time you create a feature. Having - at least a basic - knowledge of some design patterns can't hurt.
+You are a valuable asset to your team and your company when you don't create hundreds of bugs each time you implement a feature. Having - at least a basic - knowledge of some design patterns can't hurt.
 
-An other advantage of using design patterns is to share common ground with more experienced developers. For instance, instead of describing step-by-step an algorithm you would use to solve a problem, just explain that you would use an observer pattern. It would make you look professional and avoid waist of time and as you should know, time is essence when it comes to software engineering.
+An other advantage of using design patterns is to share common ground with more experienced developers. For instance, instead of describing step-by-step an algorithm you would use to solve a problem, just explain that you would use an observer pattern. It would make you look professional and avoid waste of time and as you should know, time is essence when it comes to software engineering.
 
 ## Example of design patterns
 It exists lots of different patterns, classified in categories:  
@@ -55,7 +55,7 @@ _This list would evolve with the different articles written_
 - Design patterns address specific problems with well thought, high-level solutions
 - It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining
 - They are classified in categories: Behavioral, Creational and Structural patterns
-- When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../observer-pattern/) or [Decorator](../decorator-pattern/) patterns
+- When you get started, you definitely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../observer-pattern/) or [Decorator](../decorator-pattern/) patterns
 - And remember, practice makes perfect!
 
 
