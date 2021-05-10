@@ -1,4 +1,4 @@
-# [kodeReview~](#)
+# [kodeReview~](kodereview.io)
 
 My personal blog. Forked from Gatsby blog starter!
 
