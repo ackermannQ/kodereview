@@ -18,7 +18,7 @@ _A client is anything, it could be objects, services ... whatever_
 
 
 The main pitfall there is failing to identify the logic that should be separated from your clients. Worst case scenario, you use inheritence to create classes that are different but sharing common methods.  
-This is called code duplication and this is bad _bad_, __bad__.
+This is called code duplication and this is bad, _bad_, __bad__.
 
 ### Use case
 Let’s say you work for a company selling online articles - like Amazon. You are currently working on the backend, more specifically on the checkout part.  
