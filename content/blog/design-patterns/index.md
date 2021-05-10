@@ -55,7 +55,7 @@ _This list would evolve with the different articles written_
 - Design patterns address specific problems with well thought, high-level solutions
 - It gives a common vocabulary to all team members and speed-up the necessary time for everyone to get what you are explaining
 - They are classified in categories: Behavioral, Creational and Structural patterns
-- When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../decobserverorator-pattern/) or [Decorator](../decorator-pattern/) patterns
+- When you get started, you definetely should know - and implement at least once - the [Strategy](../strategy-pattern/), [Observer](../observer-pattern/) or [Decorator](../decorator-pattern/) patterns
 - And remember, practice makes perfect!
 
 
