@@ -74,6 +74,7 @@ const Seo = ({ description, lang, meta, title }) => {
         },
       ].concat(meta)}
     >
+      <meta name="google-site-verification" content="bNa8ONaRFQf-qekSzPK8RIeCBasCm-FAcYHzy2Wiesc" />
       <link rel="icon" href={favicon} />
     </Helmet>
   )

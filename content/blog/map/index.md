@@ -1,7 +1,7 @@
 ---
 title: "[JS] - Map"
 date: "2021-06-05T22:40:32.169Z"
-description: Explained and implemented
+description: 🗺️
 
 ---
 
