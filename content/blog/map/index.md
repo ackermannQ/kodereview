@@ -113,9 +113,29 @@ console.log(mapped_candidates);
 ```
 
 Now, you should better understand **map** and now we are going to see the implementation (one at least) of this function.  
-This is actually a very good way to be sure to understand the underlying concept of this method. 
+This is actually a very good way to be sure you understood the underlying concept of this method. 
 
 ## Implementation
+
+```js
+function mapFunction(array, callback) {
+   var newArray = [];
+
+   for(let [index, value] of array.entries()) {
+      newArray.push(callback(value, index, array));
+   }
+
+   return newArray;
+}
+
+```
+
+Do you see now the importance of returning in your callback?
+
+The code itself is straightforward, mapFunction takes in argument an array and a callback.  
+Then, we create the newArray to store the results of our callback and would be returned.  
+Using the array.entries() method, we get the index and the value of the array we are performing the mapping on and we apply the callback on each element, then push it into the newArray.  
+Finally, the newArray with the callback applied on each element is returned.
 
 ## To conclude - The key takeaways
 
