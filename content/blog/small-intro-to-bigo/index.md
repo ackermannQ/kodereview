@@ -27,6 +27,8 @@ Here I will mainly focus on time complexity. I may update later this article to 
 
 ![Big O complexities](./complexity_chart.jpg)
 *This graphic sum up common complexities of algorithms*
+
+One last thing: Complexities are evaluatede in the best case, the worst case and on average. Usually, we take into account only the worst case scenario.  
 ## O(1)
 This is the basic big O notation, it corresponds to one operation.
 
@@ -108,7 +110,46 @@ int sumNumber(int N) {
 In this case we iterate N times, the complexity is O(N). Notice that the initialization of sum variable or the incrementation are O(1) operations, but since we are doing N operations we end up with O(N) time complexity.
 
 ## O(log(N))
-Details and example
+
+Often when in a problem a number of elements get halved each iteration, it probably is a O(log(N)) runtime.  
+Let's say we are searching for a number in an array. The algorithm is:  
+Take the middle element, if it is the number we are looking for, return.  
+If the element < number, search in the new array on the left. Otherwise search on the right.  
+
+Exemple:  
+
+Starting with 32 elements, after the first step only 16 remains, then 8 ...
+
+```
+N = 32
+N = 16
+N = 8
+N = 4
+N = 2
+N = 1
+
+```
+ corresponds to:
+
+N = 2<sup>5</sup>  
+N = 2<sup>4</sup>  
+N = 2<sup>3</sup>  
+N = 2<sup>2</sup>  
+N = 2<sup>1</sup>  
+N = 2<sup>0</sup>  
+
+For any N, we are going to have: N = 2<sup>k</sup>, the question is how do we find k, the number of steps ?  
+
+N = 2<sup>k</sup> ⇒ log<sub>2</sub>(N) = k  
+
+That where comes from the O(log(N)) complexity.  
+
+
+_Details:_  
+N = 2<sup>k</sup>  
+⇒ ln(N) = k*ln(2)  
+⇔ ln(N)/ln(2) = k and log<sub>2</sub>(N) = ln(N)/ln(2)  
+thus, N = 2<sup>k</sup> ⇒ log<sub>2</sub>(N) = k
 
 
 ## O(N²)
@@ -145,11 +186,28 @@ We do B println of A elements, thus the complexity is O(A * B).
 
 
 ## O(2^N)
-Details and example
+This kind of complexity concerns the algorithms performing two operations simultaneously, in a recursive function that makes two recursive calls for instance.  
+Generally, if a recursive function makes more than one call, the complexity is O(branches<sup>depth</sup>).  
+
+```java
+int f(int i) {
+   if (n <= 1) {
+      return 1;
+   }
+
+   return f(n-1) + f(n-1);
+}
+```
+
+Two branches, with a depth of N: O(2<sup>N</sup>). Draw a graph for an exemple, with N=3 or N=4.  
+At each step, the function is called twice more than the previous one.  
 
 
 ## O(N!)
-Details and example
+
+As you may have guessed, it performs N! operation at runtime.  
+Avoid this kind of living hell.  
+[Bogosort](https://en.wikipedia.org/wiki/Bogosort)
 
 
 ## To conclude - The key takeaways
