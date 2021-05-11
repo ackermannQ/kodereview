@@ -6,10 +6,11 @@ module.exports = {
       summary: `I explain code and coding practices.`,
     },
     description: `kodeReview ~ | I explain code and coding practices.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://kodereview.io`,
     social: {
       linkedIn: `quentin-ackermann-537178176/`,
     },
+    plugins: [`gatsby-plugin-sitemap`],
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -126,5 +127,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-sitemap`,
   ],
 }

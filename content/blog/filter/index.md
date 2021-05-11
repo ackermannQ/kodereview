@@ -1,7 +1,7 @@
 ---
-title: "[JS] - Filter"
+title: "[JS] - Filter @InProgress"
 date: "2021-06-07T22:40:32.169Z"
-description: 🕸️
+description: 🕸
 
 ---
 

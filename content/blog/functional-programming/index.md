@@ -1,13 +1,13 @@
 ---
-title: "[JS] - Reduce @InProgress"
-date: "2021-10-05T22:40:32.169Z"
-description: 📉
+title: "[JS] - Functional Programming @InProgress"
+date: "2021-11-15T22:40:32.169Z"
+description: 💾
 
 ---
 
-Reduce is used for ...
+Intro:
+FP: Use of pure functions, avoiding shared state, mutable data, and side-effects
 
-With diagrams of maths sets
 
 ## Example of use
 
@@ -15,7 +15,7 @@ With diagrams of maths sets
 
 ## To conclude - The key takeaways
 
-Conlude this serie on [map](../map), [filter](../filter) and [reduce](../reduce) which are basic knowledge in JS.
+You can go on with the [reduce](../reduce) article or check out my article on [map](../map).
 
 
 #### Any remarks ?

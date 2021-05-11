@@ -11,6 +11,11 @@ Map is used for transforming an array into an other array. You can think of it e
 
 For each element from you departure set, you will associate an element of the destination set. The function (the arrow) is exactly the map function in Javascript.  
 
+An other funny way to understand the use of map is:  
+
+![map](./map.png)
+
+
 
 ## Example of use
 
