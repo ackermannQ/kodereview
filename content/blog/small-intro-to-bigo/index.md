@@ -83,19 +83,65 @@ Exemple:
 ```java 
 String[] names = {"Mike", "John", "Tim", "Mag"};
 
-for (int i = 0; j < names.length; i++) {
+for (int i = 0; i < names.length; i++) {
    System.out.println(names[i]);
 }
 
 
 ```
-Mix of O(1) and O(N)
+
+The complexity is O(4) because our array is of length 4. Generally we will say it's a O(1) complexity.
+
+```java 
+int sumNumber(int N) {
+   int sum = 0;
+   
+   for (int i = 0; i < N; i++) {
+      sum += i;
+   }
+
+   return sum;
+}
+
+```
+
+In this case we iterate N times, the complexity is O(N). Notice that the initialization of sum variable or the incrementation are O(1) operations, but since we are doing N operations we end up with O(N) time complexity.
+
 ## O(log(N))
 Details and example
 
 
 ## O(N²)
-Details and example
+
+When loops are imbricated, the runtimes are multiplied:
+
+```java
+int doStuff(int N) {
+   for (int i = 0; i < N; i++) {
+      for (int j = 0; j < N; j++) {
+         System.out.println(i + j);
+      }
+   }
+}
+
+```
+
+We do N println for each element, N times, the complexity is O(N * N) = O(N²).
+
+Generally, if we have two arrays with A and B lengths respectively:
+
+```java
+int doStuff(int[] A, int[] B) {
+   for (int i = 0; i < N; i++) {
+      for (int j = 0; j < N; j++) {
+         System.out.println(i + j);
+      }
+   }
+}
+
+```
+
+We do B println of A elements, thus the complexity is O(A * B).
 
 
 ## O(2^N)
@@ -107,6 +153,11 @@ Details and example
 
 
 ## To conclude - The key takeaways
+- Drop the constants
+- Drop the non-dominants terms
+- Add complexities when operations are performed one after another
+- Multiply complexities when for a number of operations, each steps require an other amount of operations
+- Let me point you to this [nice repository](https://gist.github.com/jhwheeler/995dab35210c550b51b3b4160933a541) with more exercises if you want to practice
 
 #### Any remarks ?
 
