@@ -7,7 +7,7 @@ description: 🗺️
 
 Map is used for transforming an array into an other array. You can think of it exactly the same as for a mathematical (bijective... Drop this notion if it is not familiar) function, you have a set of departure and a set of destination:  
 
-![functions](https://en.wikipedia.org/wiki/File:Codomain2.SVG)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Codomain2.SVG" alt="functions" width="600"/>
 
 For each element from you departure set, you will associate an element of the destination set. The function (the arrow) is exactly the map function in Javascript.  
 
