@@ -1,7 +1,7 @@
 ---
 title: "[JS] - Functional Programming @InProgress"
 date: "2021-11-15T22:40:32.169Z"
-description: 💾
+description: 💾 The opposite of imperative programming!
 
 ---
 
@@ -9,13 +9,13 @@ Intro:
 FP: Use of pure functions, avoiding shared state, mutable data, and side-effects
 
 
-## Example of use
+## Imperative VS Functional
 
-## Implementation
+## Pros and cons
 
 ## To conclude - The key takeaways
 
-You can go on with the [reduce](../reduce) article or check out my article on [map](../map).
+You can check my [map](../map)/[filter](../filter)/[reduce](../reduce) articles!
 
 
 #### Any remarks ?
