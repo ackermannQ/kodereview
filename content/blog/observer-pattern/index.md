@@ -168,13 +168,13 @@ __TweetsAPI class__:
 public class TweetsAPI {
    public static void main(String[] args) {
 
-   TweetData tweetData = new TweetData(); // Observable
+      TweetData tweetData = new TweetData(); // Observable
 
-   DisplayTweetData displayTweetData = new DisplayTweetData(tweetData); // Observer
+      DisplayTweetData displayTweetData = new DisplayTweetData(tweetData); // Observer
 
-   tweetData.setData("@Quentin", "This is the observer pattern"); // Set Mockup data
-   tweetData.setData("@Tom", "Design patterns are so cool.");
-   tweetData.setData("@Maggie", "I don't like the spider pig!");
+      tweetData.setData("@Quentin", "This is the observer pattern"); // Set Mockup data
+      tweetData.setData("@Tom", "Design patterns are so cool.");
+      tweetData.setData("@Maggie", "I don't like the spider pig!");
 
    }
 
