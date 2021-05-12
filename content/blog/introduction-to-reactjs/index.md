@@ -228,7 +228,6 @@ export default function Post() {
 As I explained, this would be a component used to display the title, the author's name, the date and the content:
 
 **Post.tsx**
-
 ```ts
 import React from 'react'
 
@@ -249,9 +248,63 @@ export default function Post() {
 ```
 
 
+Even though writing CSS-inline is not the best practice, it is sufficient for this example. Now, our Post component looks like this:  
+
+![Post react component](./postComponent1.PNG)
+
+Well, it's not that fancy... Yet! But as you can see we have the main attributes of an article.  
+You may find it weird, but setting the date by hand in a blog post is not very frequent, we should ask Javascript to it for us!  
+
+**Post.tsx**
+
+```ts
+import React from 'react'
+
+export default function Post() {
+   let today = new Date();
+   const dd = today.getDate();
+   const mm = today.getMonth() + 1;
+   const yyyy = today.getFullYear();
+
+   const date = mm + '/' + dd + '/' + yyyy;
+
+   return (
+      <div style={{marginTop: '5%', marginLeft: '25%', marginRight: '25%'}}>
+         <h1>Javascript and ReactJS</h1>
+         <h4>Quentin Ackermann - {date}</h4>
+         <p>
+         The main idea in React is to use components. You can create functions and classes called components (function-component and class-component).  
+         I had a hard time understanding what exactly is a component when I started using react, but actually it is anything, really. It's a way of splitting your application to loosely couple the logic.  
+         Let's say you are building ... a blog!
+         </p>
+      </div>
+   );
+}
+
+```
+
+Now, we get the full date. These are classic method on Date in js, don't hesitate to have a look at the [documentation](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/getDate).  
+
+What's interesting is how the "date" variable is passed to the JSX element using {}.  
+All operations have been perform in the body of the function, and then passed to the JSX.  
+
+This draw attention on something: you don't want to create a new component with a new title, author, content...  
+Actually, this is the power of react. You want to create one component, like Post and then pass arguments or properties so you can reuse it.  
+The properties, what will change, are:
+- title
+- author's name
+- content
+
+the date will be create in place with the object Date.
+
+> Components have props 
 
 ## To conclude - The key takeaways
 
+- 
+- 
+- 
+- You can find the full project [here](https://github.com/ackermannQ/intro-to-react)
 #### Any remarks ?
 
 Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
