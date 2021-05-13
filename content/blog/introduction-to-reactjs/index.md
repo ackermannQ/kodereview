@@ -1,6 +1,6 @@
 ---
-title: "[ReactJS] - Introduction to ReactJS @InProgress"
-date: "2021-05-31T22:40:32.169Z"
+title: "[ReactJS] - Introduction to ReactJS"
+date: "2021-05-13T22:40:32.169Z"
 description: "Hope you don't get any allergic react to JS."
 
 ---

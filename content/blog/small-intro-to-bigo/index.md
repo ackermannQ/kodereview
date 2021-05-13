@@ -1,6 +1,6 @@
 ---
 title: "[Data Structure] - Small intro to big O"
-date: "2021-05-15T22:40:32.169Z"
+date: "2021-05-10T22:40:32.169Z"
 description: Will you have the time to catch it all ? 
 ---
 

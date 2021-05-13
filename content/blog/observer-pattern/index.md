@@ -1,6 +1,6 @@
 ---
 title: "[Design] - The Observer Pattern"
-date: "2021-05-10T22:40:32.169Z"
+date: "2021-05-05T22:40:32.169Z"
 description: I can see you :)
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "[Agile] - How do you plan your iteration?"
-date: "2021-05-07T22:12:03.284Z"
+date: "2021-05-01T22:12:03.284Z"
 description: "Short answer, you can't."
 ---
 

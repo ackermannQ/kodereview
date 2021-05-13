@@ -1,6 +1,6 @@
 ---
 title: "[Design] - The Strategy Pattern"
-date: "2021-05-04T22:40:32.169Z"
+date: "2021-04-29T22:40:32.169Z"
 description: Let's be strategic for a while!
 ---
 
