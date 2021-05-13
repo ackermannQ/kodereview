@@ -66,7 +66,7 @@ What was the principle of the strategy pattern ?
 "Defines a family of algorithms, encapsulate each one, and make them interchangeable."  
 
 
-![Using the strategy pattern](./goodImpl_diagram.png)
+![Using the strategy pattern](./goodImpl_diagram.PNG)
 
 The interface IPayment and it implementation are thought as a family of algorithms.  
 The client (Article and inherited classes) makes use of this family of algorithms.  
