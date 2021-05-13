@@ -46,9 +46,8 @@ You could also checkout [this link](../decorator-pattern/)
 _This list would evolve with the different articles written_
 
 ## Lecture to get started
-- If you don't want to invest right now in a paper book or kindle, you can get a grasp on many design patterns [there](https://sourcemaking.com)
-- An other great reading is [Head First Design Patterns](https://www.amazon.fr/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124), a free version is availabled [at this address](https://raw.githubusercontent.com/ajitpal/BookBank/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf)
-
+- If you don't want to invest right now in a paper book or kindle, you can get a grasp on many design patterns <a href="https://sourcemaking.com" target="_blank" rel="nofollow noopener noreferrer">there</a>
+- An other great reading is <a href="https://www.amazon.fr/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124" target="_blank" rel="nofollow noopener noreferrer">Head First Design Patterns</a>, a free version is availabled <a href="https://raw.githubusercontent.com/ajitpal/BookBank/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf" target="_blank" rel="nofollow noopener noreferrer">at this address</a>
 
 ## To conclude - The key takeaways
 

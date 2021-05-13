@@ -211,7 +211,8 @@ Put differently, it's only when the subject changes that it notifies the observe
 > Great flexibility
 
 - You could also check out my article on [design patterns](../design-patterns/)
-- The project is [available there](https://github.com/ackermannQ/design_patterns/tree/master/ObserverPattern/src)
+- The project is <a href="https://github.com/ackermannQ/design_patterns/tree/master/ObserverPattern/src" target="_blank" rel="nofollow noopener noreferrer">available here</a>
+
 #### Any remarks ?
 
 Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  

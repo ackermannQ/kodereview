@@ -6,7 +6,7 @@ description: Will you have the time to catch it all ?
 
 Time execution varies between computers, so instead of talking about seconds or miliseconds, we talk about complexity to describe how long or how much space would an algorithm take to be executed.
 
-Big O notations are essentials because having performant algorithms means having a fast-responding software. Who knows, you might even get a [nice reward](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/) for optimizing an existing algorithm. [Full story there](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/).  
+Big O notations are essentials because having performant algorithms means having a fast-responding software. Who knows, you might even get a <a href="https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/" target="_blank" rel="nofollow noopener noreferrer">nice reward</a> for optimizing an existing algorithm. <a href="https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/" target="_blank" rel="nofollow noopener noreferrer">Full story there</a>.  
 
 Just a bit of maths to get a feeling on big O meaning. It actually describes the limiting behavior of a function when the argument tends to a value or infinity.  
 So, when you are saying O(N), you are actually saying, well my algorithm will take a number of steps that would be dominated by the linear function f(N) = N.  
@@ -69,7 +69,7 @@ for (int j = 0; j < array2.length; j++) {
 Well, from the previous example, you would say that you have N operations for the array1 and N operations for the array2. Then the complexity would be O(2N).  
 One rule of big O notation is to drop constants because they don't add any value to the global complexity, the complexity is then O(N).  
 
-**Be careful!**: This reasoning is not entirely true. Here, we supposed that the two arrays were the same length (N) which is not necessarily the case!  
+**Be careful!** This reasoning is not entirely true. Here, we supposed that the two arrays were the same length (N) which is not necessarily the case!  
 
 Actually, the best thing to do at a job interview is to suppose that the two arrays have a different lengths, lets call them N and M. Now, the complexity of this algorithm is O(N + M).  
 Usually, the examiner will provide a information on N and M, like M < N. Thus, an other rule apply: only conserve the dominant term when additioning complexities.
@@ -215,7 +215,7 @@ Avoid this kind of living hell.
 - Drop the non-dominants terms
 - Add complexities when operations are performed one after another
 - Multiply complexities when for a number of operations, each steps require an other amount of operations
-- Let me point you to this [nice repository](https://gist.github.com/jhwheeler/995dab35210c550b51b3b4160933a541) with more exercises if you want to practice
+- Let me point you to this <a href="https://gist.github.com/jhwheeler/995dab35210c550b51b3b4160933a541" target="_blank" rel="nofollow noopener noreferrer">nice repository</a> with more exercises if you want to practice
 
 #### Any remarks ?
 
