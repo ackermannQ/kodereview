@@ -1,5 +1,5 @@
 ---
-title: "[Design] - Design Patterns"
+title: "[Design Patterns] - What are they btw?"
 date: "2021-04-21T22:12:03.284Z"
 description: "Dark magic ?"
 ---
