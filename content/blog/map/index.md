@@ -30,7 +30,7 @@ We are working on an array of objects:
 var candidates = [
    { firstName: 'Chloe', lastName: 'Ross', profession: 'UX/UI Designer' },
    { firstName: 'John', lastName: 'Doe', profession: 'Front End Engineer' },
-   { firstName: 'Jane', lastName: 'Does', profession: 'Back-end Engineer' },
+   { firstName: 'Jane', lastName: 'Does', profession: 'Back End Engineer' },
    { firstName: 'Mike', lastName: 'Gordon', profession: 'QA Tester' }
 ];
 
@@ -42,7 +42,7 @@ The implementation using map would look like:
 var candidates = [
   { firstName: "Chloe", lastName: "Ross", profession: "UX/UI Designer" },
   { firstName: "John", lastName: "Doe", profession: "Front End Engineer" },
-  { firstName: "Jane", lastName: "Does", profession: "Back-end Engineer" },
+  { firstName: "Jane", lastName: "Does", profession: "Back End Engineer" },
   { firstName: "Mike", lastName: "Gordon", profession: "QA Tester" },
 ];
 
@@ -55,12 +55,12 @@ console.log(mapped_candidates);
 ```
 
 
-Giving the following output (you can test it in your dev tool with F12 or [there](https://playcode.io/new/), just replace the content of script.js):
+Giving the following output (you can test it in your dev tool with F12 or <a href="https://playcode.io/new/" target="_blank" rel="nofollow noopener noreferrer">there</a>, just replace the content of script.js):
 
 ```
 ["Ross: UX/UI Designer" ,
 "Doe: Front End Engineer" ,
-"Does: Back-end Engineer" ,
+"Does: Back End Engineer" ,
 "Gordon: QA Tester"]
 
 ```
