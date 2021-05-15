@@ -4,14 +4,14 @@ date: "2021-04-29T22:40:32.169Z"
 description: Let's be strategic for a while!
 ---
 
-As explained in the [Design Patterns](../design-patterns/) article, the purpose is for your system to be ready for changes. Tight coupling would require hard work to implement something that would satisfy your customer request.  
+As explained in the [Design Patterns](../design-patterns/) article, the purpose is for your system to be ready for changes. Tight coupling would require hard work to implement new features.  
 The strategy pattern is widely used in order to separate what may change in an application from what should stay the same.  
-And it's also one of the simplest pattern to learn so let's get a grasp on our first design pattern.
+It's also one of the simplest pattern to learn so let's get a grasp on it!
 
 ## Theory
 ### Main idea
 The idea is to take what is going to change in your software, encapsulate and isolate it.  
-This would help you have a hierarchy between your classes and objects, and not duplicate code between similar objects.  
+This would help you have a hierarchy between your classes and objects, without duplicating code between similar ones.  
 At the end of the day the methods that are similar but show different behaviours should vary independently than the other aspects of the client.  
 
 _A client is anything, it could be objects, services ... whatever_ 
@@ -22,7 +22,7 @@ This is called code duplication and this is bad, _bad_, __bad__.
 
 ### Use case
 Let’s say you work for a company selling online articles - like Amazon. You are currently working on the backend, more specifically on the checkout part.  
-You may have built an Article class looking like :  
+You have built an Article class looking like:  
 
 ![bad implementation](./badImpl_articleClass.png)
 
@@ -65,13 +65,12 @@ As explained, the implementation would work, the issue here is you would have to
 What was the principle of the strategy pattern ?  
 "Defines a family of algorithms, encapsulate each one, and make them interchangeable."  
 
-
-![Using the strategy pattern](./goodImpl_diagram.PNG)
+<img src="./goodImpl_diagram.png" alt="Using the strategy pattern" height="1200"/>
 
 The interface IPayment and it implementation are thought as a family of algorithms.  
 The client (Article and inherited classes) makes use of this family of algorithms.  
 
-The idea here is using composition instead of inheriting the "behaviour" payment because it ultimately gives more flexibility to your system.  
+The key is using __composition__ instead of inheriting the "behaviour" payment because it ultimately gives more flexibility to your system.  
 
 
 Let's see what would the implementation (in Java) looks like:  
@@ -133,7 +132,7 @@ public class PaypalPayment implements IPayment {
 
 This class implements the IPayment interface, and has all the specificities related to its specific behaviour (id and password).
 
-As you can see, we took what would change in our system (the payment method) and encapsulated it. Now, it's going to be easier to chose the payment method we want, but first let's see how is implemented the Article class.
+We took what would change in our system (the payment method) and encapsulated it. Now, it's going to be easier to chose the payment method we want, but first let's see how is implemented the Article class.
 
 **Article**:
 ```java
@@ -163,8 +162,8 @@ public class Article {
 
    public void performPayment() {
       float price = this.getPrice();
-      paymentBehaviour.pay(price); /* This is called delegation. It allows you to not precise there the method that would actually do the payment  */
-   }
+      paymentBehaviour.pay(price); /* This is called delegation.*/
+   } /* It allows you to not precise here the method that would actually do the payment */
 
 }
 
@@ -199,7 +198,7 @@ public class Movie extends Article {
 }
 
 ```
-If we wouldn't have used the strategy pattern and we would have wanted to pay with a card here too, we would have had to duplicate code or inherit it. Then we may have passed unnecessarily this method to childs classes that we should then override ... and so. You probably now have the feeling that this would be very complicated and things should be well designed from the begining.  
+If we wouldn't have used the strategy pattern and have wanted to pay with a card here too, we would have had to duplicate code or inherit it. Then we may have passed unnecessarily this method to childs classes that we should then have overrided it... and so. You probably now have the feeling that this would be very complicated and things should be well designed from the begining.  
 
 If you wonder what is the method:  
 
@@ -250,11 +249,11 @@ Currently paying with Paypal: 35.0 $
 ```
 
 ## To conclude - The key takeaways
-As you could see from this example, a bad implementation would have forced a developer to duplicate code and make future evolutions of the software very difficult.  
-By encapsulating the behaviour in a family of algorithms, the changing part of the software could remain independent from the client, providing great flexibility!  
+As we saw in this example, a bad implementation would have forced a developer to duplicate code and make future evolutions of the software very difficult.  
+By encapsulating the behaviour in a family of algorithms, the changing part of the software remains independent from the client, providing great flexibility!  
 
 - Identify the logic that should be separated from your clients
-- Defines a family of algorithms, encapsulate each one, and make them interchangeable
+- Define a family of algorithms, encapsulate each one, and make them interchangeable
 - You probably noticed the use of the word "_behaviour_" all along the article, that's because the strategy pattern is a __behavioral__ pattern
 - When you have different algorithms or methods for the same task, it would be small hint to implement a strategy pattern
 - Your program can decide the implementation to use at the runtime

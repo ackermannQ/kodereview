@@ -18,7 +18,7 @@ An other funny way to understand the use of map is:
 
 To begin, you have raw material, but by applying a certain function (cook), you will have a transformed version of your array.  
 
-> It's crucial to understand that map return an array and you have to return each element to append them in this array.
+> It's crucial to understand that map returns an array and you have to return each element to append them in this array.
 
 
 ## Example of use
@@ -78,7 +78,7 @@ and the parameters of the callback:
 var newArray = array.map((currentValue, index, array) => {
    // Doing some operations, like getting the candidate name and profession
    
-   return something; /* As I explained, map return an array so this is MANDATORY */
+   return something; /* As I explained, map returns an array so this is MANDATORY */
 });                  /* otherwise you would have a bunch of undefined elements */
 
 ```

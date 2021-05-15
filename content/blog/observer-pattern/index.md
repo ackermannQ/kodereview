@@ -207,6 +207,7 @@ Put differently, it's only when the subject changes that it notifies the observe
 - Don't have to change or modify the observable to add new types of observers
 - Observers and observable are reusable
 - Loose coupling: a change of implementation in one of them doesn't affect the other one
+- This pattern belongs to the __behavioral__ patterns
 
 > Great flexibility
 
