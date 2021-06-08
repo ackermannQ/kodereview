@@ -1,7 +1,7 @@
 ---
 title: "[ReactJS] - Render props @InProgress"
 date: "2021-06-01T22:40:32.169Z"
-description: I was going to make a joke about the render distance of the props... But you won't be able to process it due to the lack of GiggleBits.
+description: Pass component as props to loosely-couple your application
 
 ---
 

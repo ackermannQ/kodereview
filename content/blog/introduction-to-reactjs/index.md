@@ -186,7 +186,7 @@ In our case, this is a __function component__ so the first letter is uppercase t
 
 You can see this is a JSX component: even though this is a function, we can use h1 or div tags inside.
 
-Now, you need to import your brand new components to your React application. To do so, you have to import them in the App.tsx:
+Now, you need to import your brand new components to your React application. To do so, import them in the App.tsx:
 
 **App.tsx**
 ```ts
@@ -209,7 +209,7 @@ export default App;
 
 ![First react application](./firstReactApp.PNG)
 
-Congrat's these are you first react components up and live!  
+Congrat's these are your first react components up and live!  
 
 We will start the implementation of the Post component.  
 
