@@ -1,6 +1,6 @@
 ---
-title: "[JS] - Filter @InProgress"
-date: "2021-06-07T22:40:32.169Z"
+title: "[JS] - Filter"
+date: "2021-06-13T22:40:32.169Z"
 description: 🕸
 
 ---
@@ -79,18 +79,39 @@ Giving the following output (you can test it in your dev tool with F12 or <a hre
 
 ```
 
-As you see you have an array of objects following the condition providing in the filter method.  
+The result is an array of objects following the condition providing in the filter method.  
 You successfuly implemented the feature your manager asked for!
 
-So, how do we use filter?
+So, how do we implement filter?
 
 > Contrary to <a href="../map" target="_blank" rel="nofollow noopener noreferrer">map</a>, you should not return anything in your callback since it's the condition that will filter the elements.
 
 
 
 ## Implementation
+```js
+function mapFunction(array, callback) {
+  var newArray = [];
+
+  for (let [index, value] of array.entries()) {
+    if (callback(value, index, array)) {
+      newArray.push(callback(value, index, array));
+    }
+  }
+
+  return newArray;
+}
+```
+
+Notice how the condition determine whether or not an element should be pushed in the array. This correspond to the filter.  
+
 
 ## To conclude - The key takeaways
+
+- Filter filter each element of an array with a condition
+- It takes in argument the current element of the array and the index/array are optionals
+- If this paradigm intrigue you, check this article on [functional programming](../functional-programming)!
+
 
 You can go on with my article on [reduce](../reduce) or check out this one on [map](../map).
 
