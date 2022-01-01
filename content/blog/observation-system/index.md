@@ -1,7 +1,7 @@
 ---
 title: "[Unity] - Observation System  @InProgress"
 date: "2021-12-15T22:40:32.169Z"
-description: 🧐
+description: 🧐 Observe and rotate objects
 ---
 
 Intro
