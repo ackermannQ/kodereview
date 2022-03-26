@@ -1,7 +1,7 @@
 ---
 title: "[ReactJS] - Pokedex Problem - Interview"
 date: "2022-01-05T22:40:32.169Z"
-description: Pika pika!
+description: ϞϞ(๑⚈ ․̫ ⚈๑)∩
 ---
 
 As I was doing some research on a [topic I was interested in](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) I came accross a mock-up interview [Dan Abramov](https://overreacted.io/) made with [Theo - T3 Tool](https://www.youtube.com/watch?v=uqII0AOW1NM).  

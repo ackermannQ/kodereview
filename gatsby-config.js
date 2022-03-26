@@ -3,9 +3,9 @@ module.exports = {
     title: `kodeReview~`,
     author: {
       name: `Quentin Ackermann`,
-      summary: `I explain code and coding practices.`,
+      summary: `ReactJS, C#, Unity, PCG ...`,
     },
-    description: `kodeReview ~ | I explain code and coding practices.`,
+    description: `kodeReview ~ | ReactJS, C#, Unity, PCG ...`,
     siteUrl: `https://kodereview.io`,
     social: {
       linkedIn: `quentin-ackermann-537178176/`,
