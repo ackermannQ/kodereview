@@ -16,13 +16,13 @@ Being curious by nature, I feel it could benefit me a lot to write about my expe
 
 ## PCG simply put
 
-Procedural Content Generation (or PCG) is the field of using algorithm to randomize stuff, make them look realistic and put then in front of a player.
+Procedural Content Generation (or PCG) is the field of using algorithms to randomize stuff, make them look realistic and put then in front of a player.
 
 "Randomize" is a hudge approximation of "using a variaty of methods and algorithms, mostly based on nature behavior, to simulate what's happening in real-life".
 
 "Stuff" actually means anything. A generator can be implemented for images, 3D, AI, terrains, music, story and so on.
 
-"Make them look realistic" is a correlate of the previous one. The goal is to find balance between realistic and performance and this is where, to me, mathematics, physics and biology intersect with this field.
+"Make them look realistic" is the correlated of the previous assertions. The goal is to find balance between realistic and performance and this is where to me, mathematics, physics and biology intersect.
 
 Then, we need to "Put them in front of the player", but also evaluate how credible they are and how much they benefit the user experience.
 
@@ -32,7 +32,7 @@ These are the book's chapters. For each one I will try to tackle the issue while
 
 1. ~~Introduction~~ -> Let's consider this one done here
 
-- The search-based approach
+- [The search-based approach](../pcg-searched-based)
 - Constructive generation methods for dungeons and levels
 - Fractals, noise and agents with applications to landscapes and textures
 - Grammars and L-systems with applications to vegetation and levels
