@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `kodeReview~`,
+    title: `KodeReview>_`,
     author: {
       name: `Quentin Ackermann`,
-      summary: `ReactJS, C#, Unity, PCG ...`,
+      summary: `Full-stack engineer crafting developer tools in React, Node.js, and Unity - with a taste for AI, clean architecture, and creative problem-solving.`,
     },
-    description: `kodeReview ~ | ReactJS, C#, Unity, PCG ...`,
+    description: `KodeReview>_ | Full-stack engineer crafting developer tools in React, Node.js, and Unity - with a taste for AI, clean architecture, and creative problem-solving.`,
     siteUrl: `https://kodereview.io`,
     social: {
       linkedIn: `quentin-ackermann-537178176/`,
