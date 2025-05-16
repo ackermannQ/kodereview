@@ -333,6 +333,8 @@ HookGuard is available on npm:
 npm install hookguard
 ```
 
+> 🧪 HookGuard has already been downloaded **900+ times** on npm in just a few days — even before any public launch.
+
 And the VS Code extension is live: [vscode-hookguard](https://marketplace.visualstudio.com/items?itemName=ackermannQ.vscode-hookguard)
 
 It’s built to help real developers write safer, more maintainable hook logic - without slowing you down.
