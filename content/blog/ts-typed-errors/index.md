@@ -10,7 +10,7 @@ title: How I Solved the Exhaustive Error Matching Problem Every
 ## Introduction
 
 If you've ever written robust TypeScript code, you've probably
-encountered **the "unknown" error type hell**.\
+encountered **the "unknown" error type hell**.
 Since TypeScript 4.4, every `catch` block receives an `unknown` type---a
 great move for safety, but a nightmare for developer experience.
 
@@ -45,9 +45,9 @@ try {
 
 ### Why This Is a Problem
 
-- **Verbose**: Repetitive `if/else` chains\
-- **Error-prone**: Easy to forget cases\
-- **No exhaustiveness**: TypeScript can't ensure all handled\
+- **Verbose**: Repetitive `if/else` chains
+- **Error-prone**: Easy to forget cases
+- **No exhaustiveness**: TypeScript can't ensure all handled
 - **Poor DX**: No autocomplete or type inference in handlers
 
 ---
@@ -113,8 +113,8 @@ type AppError = NetworkError | ValidationError | DatabaseError | NewError
 
 ### 📦 Zero Dependencies
 
-- 1--2 KB gzipped\
-- Tree-shakeable\
+- 1--2 KB gzipped
+- Tree-shakeable
 - Works everywhere
 
 ### 🚀 Better Developer Experience
@@ -189,18 +189,18 @@ app.get("/users/:id", async (req, res) => {
 
 ## The Journey
 
-- 20+ error types → chaos\
-- Result types lacked exhaustiveness\
-- Pattern matching libs weren't error-focused\
+- 20+ error types → chaos
+- Result types lacked exhaustiveness
+- Pattern matching libs weren't error-focused
 - Combined discriminated unions + fluent API
 
 ---
 
 ## Impact
 
-- Cleaner codebases\
-- Fewer production bugs\
-- Better DX\
+- Cleaner codebases
+- Fewer production bugs
+- Better DX
 - Easier onboarding
 
 ---
@@ -229,29 +229,29 @@ if (!result.ok) {
 
 ## The Future
 
-- React Error Boundaries\
-- Express middleware\
-- Jest/Vitest matchers\
+- React Error Boundaries
+- Express middleware
+- Jest/Vitest matchers
 - IDE tooling
 
 ---
 
 ## Conclusion
 
-`ts-typed-errors` changes how we think about errors in TypeScript.\
+`ts-typed-errors` changes how we think about errors in TypeScript.
 It gives us:
 
-- ✅ Compile-time safety\
-- ✅ Cleaner ergonomics\
-- ✅ Zero dependencies\
+- ✅ Compile-time safety
+- ✅ Cleaner ergonomics
+- ✅ Zero dependencies
 - ✅ Tiny bundle
 
 Adopt it incrementally in any project---one function at a time.
 
 ---
 
-**Q. Ackermann**\
-_Senior Engineer, Toolmaker, Systems Thinker_\
-[GitHub](https://github.com/ackermannQ) \|
-[KodeReview](https://kodereview.com/) \|
+**Q. Ackermann**
+_Senior Engineer, Toolmaker, Systems Thinker_
+[GitHub](https://github.com/ackermannQ) |
+[KodeReview](https://kodereview.com/) |
 [LinkedIn](https://www.linkedin.com/in/quentin-ackermann-537178176/)
