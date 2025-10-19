@@ -1,6 +1,6 @@
 ---
 title: "You Shouldn't Need to Reverse Engineer Your Own React App"
-date: "2025-05-26T15:03:00.000Z"
+date: "2025-07-18T15:03:00.000Z"
 description: "Structure isn't a luxury. It's how we prevent our systems from decaying under their own weight."
 ---
 

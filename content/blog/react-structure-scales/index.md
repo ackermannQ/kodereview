@@ -1,6 +1,6 @@
 ---
 title: "React Doesn't Scale. Your Structure Does."
-date: "2025-05-22T08:40:32.169Z"
+date: "2025-06-22T08:40:32.169Z"
 description: "Scalability in React has nothing to do with components - and everything to do with how you separate orchestration, effects, and logic."
 ---
 

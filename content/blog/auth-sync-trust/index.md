@@ -1,6 +1,6 @@
 ---
 title: "The Subtle Art of Trust: Syncing Auth Between Frontend, Backend, and Database"
-date: "2025-05-28T08:00:32.169Z"
+date: "2025-09-19T08:00:32.169Z"
 description: "How to architect a fullstack authentication system where your frontend, backend, and database all trust each other without leaking security or breaking developer flow."
 ---
 
