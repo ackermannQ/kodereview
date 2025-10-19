@@ -16,11 +16,8 @@ As my responsibilities grew, I stepped into the role of front-end product owner,
 
 In parallel, I started building tools for developers - automation scripts, custom integrations, [npm packages](https://www.npmjs.com/package/hookguard) and more recently a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ackermannQ.botpress-tools) designed to streamline the development of chatbot integrations. This projects, in particular, was a turning point: it forced me to think beyond features, and focus on developer experience, speed, and clarity.
 
-Now, I’m about to join a company at the cutting edge of AI and conversational interfaces. It's a space where all of my past experiences - from game logic to productivity tooling - converge. This next chapter is about building smarter tools, more human interactions, and ultimately better systems for thinking and creating.
-
 This post is both a recap and a turning point. I’ve grown a lot in the shadows these past couple of years. Now it’s time to share more of the journey.
 
-#### Any remarks ?
-
-Make a [pull request](https://github.com/ackermannQ/quentinackermann) or open an [issue](https://github.com/ackermannQ/quentinackermann/issues)!  
-Don't know how to do it ? Check out this [very well explained tutorial](https://opensource.com/article/19/7/create-pull-request-github)
+- **Q. Ackermann**  
+  _Senior Engineer, Toolmaker, Systems Thinker_  
+  [GitHub](https://github.com/ackermannQ) | [KodeReview](https://kodereview.com/) | [LinkedIn](https://www.linkedin.com/in/quentin-ackermann-537178176/)
