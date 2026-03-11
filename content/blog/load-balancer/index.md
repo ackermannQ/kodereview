@@ -4,8 +4,6 @@ date: "2026-03-03T22:40:32.169Z"
 description: ⚖️
 ---
 
-# Building a Layer 7 Load Balancer from Scratch in Node.js
-
 ## Why a Load Balancer Looks Simple (Until It Breaks)
 
 This is a **Layer 7 (application layer)** load balancer. It operates at the HTTP level — it understands requests, URLs, headers, and status codes. A Layer 4 load balancer works at the TCP level: it forwards raw bytes without knowing what protocol is inside. L7 is slower (it has to parse HTTP) but smarter (it can route based on path, retry on 5xx, health check via `GET /health`). Everything in this project — routing decisions, health checks, retry logic — depends on understanding HTTP.
